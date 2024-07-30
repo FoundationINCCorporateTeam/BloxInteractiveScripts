@@ -2,7 +2,7 @@
 
 Welcome to **BloxInteractiveScripts**, the ultimate collection of LUA and JavaScript scripts designed to enhance and interact with your Roblox games and web applications. This repository serves as a comprehensive home page for all things related to our project. Dive in to explore, learn, and contribute!
 
-![BloxInteractiveScripts](https://github.com/FoundationINCCorporateTeam/BloxInteractiveScripts/banner.png)
+![BloxInteractiveScripts](https://github.com/FoundationINCCorporateTeam/BloxInteractiveScripts/blob/main/banner.png)
 
 ## Table of Contents
 - [About](#about)
